@@ -76,14 +76,15 @@
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <div align = "center">
-  <p> </p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
-  <p>¡Quieres seguir viendo hay mas abajo jejeje! 😅🍵</p>
+ 
+  <p>
+
+
+    
+  ¡Quieres seguir viendo hay mas abajo jejeje! 😅🍵
+    
+    
+  </p>
 </div>
 
 <h4> 
