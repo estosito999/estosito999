@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="
-    font-family: 'Courier New', monospace;
+    font-family: 'Courier New', monospace;">
     esOsito999Dev
   </h1>
 </div>
