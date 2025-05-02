@@ -13,7 +13,7 @@
 
 <!-- Banner animado -->
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:9370DB&height=150&section=header&text=TzortheosPapu2929v&fontSize=50&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:9370DB&height=150&section=header&text=Luis Ernesto&fontSize=50&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 </a>
 
 <!-- Saludo -->
