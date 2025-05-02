@@ -142,20 +142,15 @@
   <h3>⭐️ Top Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/estosito999/MetodosStaticos">
-        <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science-Ecosystem&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
+        <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Metodos-Estaticos&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
     <a href="https://github.com/estosito999/Curso_De_Python">
-        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Curso-Python&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
 
   
 
 
-
-
-
-<!-- ending-->
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
 <img src="https://github.com/estosito999/estosito999/blob/main/ArchivosGIFyVideos/6e1efbda2024090f057ffe754ac2a690.gif" />
 
