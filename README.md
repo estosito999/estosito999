@@ -1,5 +1,5 @@
-<div align = "center" >
-     # esOsito999Dev
+<div align="center" style="font-family: 'Arial Black'; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+  <strong style="color: #9370DB;">esOsito999Dev</strong>
 </div>
 
 
