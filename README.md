@@ -11,38 +11,64 @@
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
 
 
-<!-- Greeting -->
-</h1>
-<h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
+<!-- Banner animado -->
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:9370DB&height=150&section=header&text=TzortheosPapu2929v&fontSize=50&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+</a>
 
-<h4 align="left">🌟I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and I currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
+<!-- Saludo -->
+<h1 align="center">¡Hola mundo! 👋 Soy Tzortheos (George)</h1>
+<h3 align="center">🚀 Estudiante de Informática apasionado por la tecnología</h3>
 
+<!-- Breve descripción -->
+<div align="center">
+  <p>
+    🔭 Actualmente aprendiendo <strong>programación, bases de datos y desarrollo web</strong><br>
+    🌱 Me encanta <strong>Linux, Python y la ciberseguridad</strong><br>
+    ⚡ Fun fact: <em>"Soy mitad griego 🇬🇷, mitad geek 💻"</em>
+  </p>
+</div>
 
- <div align="center">
-<a href="https://github.com/JoshuaThadi">
-  <img width="162px" 
-       src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=318CE7&style=for-the-badge" 
-       alt="Profile views" /></a>
-<a href="https://api.github-star-counter.workers.dev/user/JoshuaThadi">
-  <img width="115px" 
-       alt="Total stars" 
-       title="Total stars on GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=318CE7&labelColor=505050&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/JoshuaThadi" /></a>
-<a href="https://github.com/JoshuaThadi?tab=followers">
-  <img width="147px" 
-       alt="Followers" 
-       title="Follow me on GitHub" 
-       src="https://custom-icon-badges.herokuapp.com/github/followers/JoshuaThadi?color=318CE7&labelColor=505050&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
- </div>
+<!-- Estadísticas -->
+<div align="center">
+  <a href="https://github.com/TzortheosPapu2929v">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=TzortheosPapu2929v&show_icons=true&theme=radical&border_color=4B0082" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzortheosPapu2929v&layout=compact&theme=radical&border_color=4B0082" />
+  </a>
+</div>
 
+<!-- Tecnologías -->
+<h2 align="center">🛠️ Mis herramientas</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,c,html,css,vscode,git,github,mysql" />
+</p>
 
-    
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+<!-- Proyectos destacados -->
+<h2 align="center">🌟 Proyectos recientes</h2>
+<div align="center">
+  <a href="https://github.com/TzortheosPapu2929v/Mi-Primer-Repositorio">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=TzortheosPapu2929v&repo=Mi-Primer-Repositorio&theme=dark" />
+  </a>
+  <!-- Añade más proyectos cuando los tengas -->
+</div>
 
+<!-- Contacto -->
+<h2 align="center">📫 ¿Quieres contactarme?</h2>
+<p align="center">
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tu-perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<!-- about me -->
- <h3 align="left">💫 About Me</h3>
+<!-- Pie de página -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TzortheosPapu2929v&label=Visitas&color=9370DB&style=flat" />
+  <p>¡Gracias por visitar mi perfil! 😊</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,100:4B0082&height=100&section=footer" width="100%"/>
+</div>
 
 
 
