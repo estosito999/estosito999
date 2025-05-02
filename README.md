@@ -1,10 +1,11 @@
 # esOsito999Dev
 
 <!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+<a href="https://github.com/TzortheosPapu2929v/ArchivosGIFyVideos/blob/main/a284f6be7a5f6e83360e2545e8d3c590.gif">
+  <img src="https://github.com/TzortheosPapu2929v/ArchivosGIFyVideos/blob/main/a284f6be7a5f6e83360e2545e8d3c590.gif" 
+       alt="Mi GIF personalizado" 
+       style="width:100%; max-width:800px; height:auto; border-radius:8px;"/>
 </a>
-
 
 
 <!--<h1 align="left">
