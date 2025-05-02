@@ -78,10 +78,13 @@
 <div align = "center">
  
   <p>
-
-
     
-  ¡Quieres seguir viendo hay mas abajo jejeje! 😅🍵
+    .
+    .
+    ..
+    
+    .
+    .¡Quieres seguir viendo hay mas abajo jejeje! 😅🍵
     
     
   </p>
