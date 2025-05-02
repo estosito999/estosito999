@@ -67,6 +67,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TzortheosPapu2929v&label=Visitas&color=9370DB&style=flat" />
   <p>¡Gracias por visitar mi perfil! 😊</p>
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,100:4B0082&height=100&section=footer" width="100%"/>
 </div>
 
@@ -74,6 +75,17 @@
 
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
+<div align = "center">
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p>¡Quieres seguir viendo hay mas abajo jejeje! 🙃😅</p>
+</div>
+
 <h4> 
   🌱 I am currently working on and developing my programming skills.</br>
  🔭 I worked on .Net Framework and experience in Model-View-Controller.</br>
