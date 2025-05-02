@@ -142,9 +142,9 @@
   <h3>⭐️ Top Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/estosito999/MetodosStaticos">
-        <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Metodos-Estaticos&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
+        <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=estosito999&repo=Metodos_Estaticos&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
     <a href="https://github.com/estosito999/Curso_De_Python">
-        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Curso-Python&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+        <img width=375 src="https://github-readme-stats.vercel.app/api/pin/?username=estosito999&repo=Curso_Python&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
 
