@@ -1,26 +1,11 @@
 <div align="center">
   <h1 style="
-    font-family: 'Arial Black', sans-serif;
-    background: linear-gradient(90deg, 
-      #ff0000, #ff00ff, #0000ff, #00ffff, #00ff00, #ffff00, #ff0000);
-    background-size: 400% 400%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: rgb 8s linear infinite;
-    display: inline-block;
-    font-size: 2.5em;
-    margin: 0;
-    padding: 5px;">
-    # esOsito999Dev
+    font-family: 'Courier New', monospace;
+    color: #00ff00;
+    text-shadow: 0 0 10px #ff00ff;">
+    esOsito999Dev
   </h1>
 </div>
-
-<style>
-  @keyframes rgb {
-    0% { background-position: 0% 50% }
-    100% { background-position: 400% 50% }
-  }
-</style>
 
 
 
