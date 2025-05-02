@@ -13,11 +13,11 @@
 
 <!-- Banner animado -->
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:9370DB&height=150&section=header&text=LuiErnesto&fontSize=50&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:9370DB&height=150&section=header&text=Luis_Ernesto&fontSize=50&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 </a>
 
 <!-- Saludo -->
-<h1 align="center">¡Hola mundo! 👋 Soy Tzortheos (George)</h1>
+<h1 align="center">¡Hola mundo! 👋 Soy TzortheosPapu2929v</h1>
 <h3 align="center">🚀 Estudiante de Informática apasionado por la tecnología</h3>
 
 <!-- Breve descripción -->
