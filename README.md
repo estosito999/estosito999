@@ -34,13 +34,7 @@
   </p>
 </div>
 
-<!-- Estadísticas -->
-<div align="center">
-  <a href="https://github.com/TzortheosPapu2929v">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=TzortheosPapu2929v&show_icons=true&theme=radical&border_color=4B0082" />
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TzortheosPapu2929v&layout=compact&theme=radical&border_color=4B0082" />
-  </a>
-</div>
+
 
 <!-- Tecnologías -->
 <h2 align="center">🛠️ Mis herramientas(📚 Languages & tools I Have placed My Hands On)</h2>
@@ -163,12 +157,12 @@
 <!-- ending-->
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
-<img src="https://github.com/estosito999/estosito999/blob/main/ArchivosGIFyVideos/6e1efbda2024090f057ffe754ac2a690.gif" width="1920" height=0.4/>
+<img src="https://github.com/estosito999/estosito999/blob/main/ArchivosGIFyVideos/6e1efbda2024090f057ffe754ac2a690.gif" />
 
-<img src="https://github.com/estosito999/estosito999/blob/main/ArchivosGIFyVideos/5d7e63321c20205cff35c4f6c9891ccd.gif" width="1920" height=0.4/>
+<img src="https://github.com/estosito999/estosito999/blob/main/ArchivosGIFyVideos/5d7e63321c20205cff35c4f6c9891ccd.gif" />
 
-<img src="https://github.com/estosito999/estosito999/blob/main/ArchivosGIFyVideos/43760b6cf51d11662776934a38eb9974.gif" width="1920" height=0.4/>
+<img src="https://github.com/estosito999/estosito999/blob/main/ArchivosGIFyVideos/43760b6cf51d11662776934a38eb9974.gif" />
 
-<img src="https://github.com/estosito999/estosito999/blob/main/ArchivosGIFyVideos/378c5d0fc939f0dc9cf40b9b1d566fb2.gif" width="1920" height=0.4/>
+<img src="https://github.com/estosito999/estosito999/blob/main/ArchivosGIFyVideos/378c5d0fc939f0dc9cf40b9b1d566fb2.gif" />
 
 
