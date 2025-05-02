@@ -1,12 +1,10 @@
 # esOsito999Dev
 
 <!-- MasterHead -->
-<a href="https://github.com/TzortheosPapu2929v/ArchivosGIFyVideos/blob/main/a284f6be7a5f6e83360e2545e8d3c590.gif">
-  <img src="https://github.com/TzortheosPapu2929v/ArchivosGIFyVideos/blob/main/a284f6be7a5f6e83360e2545e8d3c590.gif" 
-       alt="Mi GIF personalizado" 
-       style="width:100%; max-width:800px; height:auto; border-radius:8px;"/>
-</a>
-![Mi GIF](https://raw.githubusercontent.com/TzortheosPapu2929v/ArchivosGIFyVideos/main/a284f6be7a5f6e83360e2545e8d3c590.gif)
+<img src="https://raw.githubusercontent.com/TzortheosPapu2929v/ArchivosGIFyVideos/main/a284f6be7a5f6e83360e2545e8d3c590.gif" 
+     alt="Mi GIF" 
+     width="100%"
+     style="border-radius: 10px; border: 2px solid #4B0082"/>
 <!--<h1 align="left">
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
 
