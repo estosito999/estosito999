@@ -1,7 +1,7 @@
 # esOsito999Dev
 
 <!-- MasterHead -->
-<img src="https://raw.githubusercontent.com/TzortheosPapu2929v/ArchivosGIFyVideos/main/a284f6be7a5f6e83360e2545e8d3c590.gif" 
+<img src="https://github.com/estosito999/estosito999/blob/main/ArchivosGIFyVideos/a284f6be7a5f6e83360e2545e8d3c590.gif" 
      alt="Mi GIF" 
      width="100%"
      style="border-radius: 10px; border: 2px solid #4B0082"/>
