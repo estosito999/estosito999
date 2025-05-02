@@ -23,9 +23,9 @@
 <!-- Breve descripción -->
 <div align="center">
   <p>
-    🔭 Actualmente aprendiendo <strong>programación, bases de datos y desarrollo web</strong><br>
+    🔭 Actualmente aprendiendo <strong>programaciónII, bases de datos y desarrollo web</strong><br>
     🌱 Me encanta <strong>Linux, Python y la ciberseguridad</strong><br>
-    ⚡ Fun fact: <em>"Soy mitad griego 🇬🇷, mitad geek 💻"</em>
+    ⚡ Fun fact: <em>"Soy mitad estoico👽, mitad Deev 💻"</em>
   </p>
 </div>
 
@@ -40,7 +40,7 @@
 <!-- Tecnologías -->
 <h2 align="center">🛠️ Mis herramientas</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,c,html,css,vscode,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,c,html,css,vscode,git,github,mysql" />
 </p>
 
 <!-- Proyectos destacados -->
