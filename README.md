@@ -25,10 +25,10 @@
   <a href="https://github.com/estosito999">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="mailto:duicornista@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/tu-perfil">
+  <a href="https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/luis-ernesto-barrionuevo-aparicio-4131a8275/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://tu-portfolio.com">
