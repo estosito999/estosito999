@@ -57,27 +57,23 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack (Backend · Data · Web3 · Infra)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,bash,linux,arch,ubuntu,debian,js,nodejs,mysql,mongodb,git,github,vscode,androidstudio,kotlin,tailwind,bootstrap,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,bash,linux,git,github,githubactions,docker,kubernetes,nginx,terraform&perline=14" />
 </p>
 
----
-
-## 🌟 Proyectos destacados
 <p align="center">
-  <a href="https://github.com/estosito999/Metodos_Estaticos">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=estosito999&repo=Metodos_Estaticos&theme=transparent&hide_border=true"
-      alt="Repositorio Metodos_Estaticos"
-    />
-  </a>
-  <a href="https://github.com/estosito999/Curso_Python">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=estosito999&repo=Curso_Python&theme=transparent&hide_border=true"
-      alt="Repositorio Curso_Python"
-    />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq,fastapi,flask,spring,dotnet&perline=14" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,ipfs,sklearn,pytorch,tensorflow,r,matlab&perline=14" />
+</p>
+
+<p align="center">
+  <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img alt="MetaTrader 5" src="https://img.shields.io/badge/MetaTrader%205-MT5-0B0F19?style=for-the-badge" />
 </p>
 
 ---
