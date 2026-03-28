@@ -16,7 +16,7 @@
   />
 </p>
 
-<h1 align="center">Hola 👋 Soy Luis Ernesto</h1>
+<h1 align="center">Hi 👋 My name is Luis Ernesto</h1>
 <p align="center">
   Desarrollador en formación · Backend profundo · Data/Finanzas · Blockchain · Sistemas bajo incertidumbre
 </p>
