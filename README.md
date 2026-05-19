@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/luis-ernesto-barrionuevo-aparicio-4131a8275/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="[https://tu-portfolio.com](https://officialportfolio-tau.vercel.app/)">
+  <a href="https://officialportfolio-tau.vercel.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
